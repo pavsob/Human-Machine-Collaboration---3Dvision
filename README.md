@@ -6,7 +6,7 @@ Colour camera provides RGB colour stream. As already mentioned, the Kinect depth
 
  ![image](https://user-images.githubusercontent.com/81230042/119347399-62e01880-bc93-11eb-9c58-1cf49849e2bd.png)
  
-								Picture 1: 	Depth sensing area
+Picture 1: 	Depth sensing area
 
 Skeleton tracking is the most crucial function of Kinect in this matter. It detects the human body and provides the position information about its joints (picture 2).
 
