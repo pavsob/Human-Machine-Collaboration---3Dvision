@@ -5,6 +5,7 @@ The main task of the project was to implement and realise human-machine collabor
 Colour camera provides RGB colour stream. As already mentioned, the Kinect depth sensor consists of an infrared emitter and an infrared depth sensor. The two images (picture 1) obtained by the depth sensor are then composed using the Stereo Triangulation method, which is an analytical algorithm for calculating the depth information from points in an image. The sensor then provides each pixel of a depth image with a number that is the distance of an object in front of the sensor in millimetres.
 
  ![image](https://user-images.githubusercontent.com/81230042/119347399-62e01880-bc93-11eb-9c58-1cf49849e2bd.png)
+ 
 Picture 1: 	Depth sensing area
 
 Skeleton tracking is the most crucial function of Kinect in this matter. It detects the human body and provides the position information about its joints (picture 2).
