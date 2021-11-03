@@ -1,4 +1,4 @@
-# HumanMachineCollaboration-3Dvision
+# Human Machine Collaboration - 3Dvision
 The main task of the project was to implement and realise human-machine collaboration using a Kinect 3D camera.
 
 3D cameras can be used as NUI (natural user interface). NUI means that the person uses its natural environment to control the application, for example: using its own body as a controller and thus controlling is a direct and intuitive environment. Kinect version 1 was used for this project and for programming the Kinect for Windows Software Development Kit was used.
