@@ -1,6 +1,8 @@
 # Human Machine Collaboration - 3Dvision
 The main task of the project was to implement and realise human-machine collaboration using a Kinect 3D camera.
 
+Viedo: https://www.linkedin.com/posts/pavel-sobotka-4041ab197_back-in-2019-i-finished-my-final-project-activity-6802903398124425216-MPDs
+
 3D cameras can be used as NUI (natural user interface). NUI means that the person uses its natural environment to control the application, for example: using its own body as a controller and thus controlling is a direct and intuitive environment. Kinect version 1 was used for this project and for programming the Kinect for Windows Software Development Kit was used.
 Colour camera provides RGB colour stream. The Kinect depth sensor consists of an infrared emitter and an infrared depth sensor. The two images (picture 1) obtained by the depth sensor are then composed using the Stereo Triangulation method, which is an analytical algorithm for calculating the depth information from points in an image. The sensor then provides each pixel of a depth image with a number that is the distance of an object in front of the sensor in millimetres.
 
